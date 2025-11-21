@@ -4,8 +4,6 @@
 This project performs an in-depth Exploratory Data Analysis (EDA) on the publicly available **Automobile Dataset (UCI Repository)**.  
 It highlights key automotive engineering relationships such as engine design, powertrain characteristics, weight distribution, and production-cost indicators.
 
-Designed as a portfolio project for the **Master’s in Automotive Production Engineering (MAPE)** at **Technische Hochschule Ingolstadt, Germany**.
-
 ---
 
 ## 🧭 Objectives
@@ -72,3 +70,4 @@ Identifies the most influential engineering and cost factors.
 
 
 ---
+
