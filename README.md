@@ -1,4 +1,4 @@
-# 🚗 Exploratory Data Analysis on Automobile Dataset  
+# Exploratory Data Analysis on Automobile Dataset  
 ### *A Production Engineering–Aligned Automotive Analytics Project*
 
 This project performs an in-depth Exploratory Data Analysis (EDA) on the publicly available **Automobile Dataset (UCI Repository)**.  
@@ -69,5 +69,6 @@ Petrol vs diesel cost comparison.
 
 ### 6️⃣ Correlation Heatmap  
 Identifies the most influential engineering and cost factors.
+
 
 ---
