@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on Automobile Dataset  
+# Exploratory Data Analysis on Automobile Dataset (Shubham Bhogan)
 ### *A Production Engineering–Aligned Automotive Analytics Project*
 
 This project performs an in-depth Exploratory Data Analysis (EDA) on the publicly available **Automobile Dataset (UCI Repository)**.  
@@ -70,4 +70,5 @@ Identifies the most influential engineering and cost factors.
 
 
 ---
+
 
